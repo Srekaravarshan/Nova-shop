@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "603877981855",
+    "firebase_url": "https://nova-shop-d52ce.firebaseio.com",
+    "project_id": "nova-shop-d52ce",
+    "storage_bucket": "nova-shop-d52ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603877981855:android:7581442f711da8d5cf2caa",
+        "android_client_info": {
+          "package_name": "com.nova.novashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603877981855-1tfpk7utgmaup5ntsh63n9d0hg4u8jua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKqSStR1G1QugMO8erva8L0YOuY8eQ8Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603877981855-1tfpk7utgmaup5ntsh63n9d0hg4u8jua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "603877981855-m1cojpmug15ite3u0uqriv8j1b52km2p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nova.novashop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

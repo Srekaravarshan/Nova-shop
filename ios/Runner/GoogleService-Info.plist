@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>279705146189-g43821plh1si9p4h8csnkb9uh9ipher9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.279705146189-g43821plh1si9p4h8csnkb9uh9ipher9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-XkmLZ38gKHbzqF6YQ-3GvJ-IhV-O_vo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>279705146189</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nova.novashopping</string>
+	<key>PROJECT_ID</key>
+	<string>nova-shopping</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nova-shopping.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:279705146189:ios:3c3cce3a220fa4b63fdd04</string>
+	<key>DATABASE_URL</key>
+	<string>https://nova-shopping.firebaseio.com</string>
+</dict>
+</plist>
